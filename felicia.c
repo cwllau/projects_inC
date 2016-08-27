@@ -3,6 +3,6 @@
 
 int main () 
 {
-printf ("bye felicia\n");
+printf ("bye felicia!\n");
 }
 
