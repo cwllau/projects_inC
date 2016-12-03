@@ -1,0 +1,1 @@
+int store_file_size(int file_size);
