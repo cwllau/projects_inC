@@ -1,0 +1,10 @@
+#define MAX_TIMES 6
+#define SIZE 50
+#define HIDE_INPUT_SPACE 60
+#define FACE_WIDTH 13
+#define FACE_HEIGHT 6
+#define EYE '\''
+#define SURPRISED_EYE 'O'
+#define GAME_OVER_EYE 'X'
+#define TOP_BOTTOM '_'
+#define RIGHT_LEFT '|'
